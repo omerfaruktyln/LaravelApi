@@ -1,0 +1,31 @@
+.custom-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: black;
+}
+.custom-card{
+    width: 90%;
+    max-width: 400px;
+    padding: 20px;
+    height: auto;   
+}
+.login-button{
+    position: absolute;
+    top: 20px;
+    right: 20px;
+}
+
+.custom-c {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: black;
+}
+.custom {
+    width: 90%;
+    max-width: 400px; 
+}
+
